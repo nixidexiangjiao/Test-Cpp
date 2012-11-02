@@ -1,0 +1,4 @@
+Make and model: test1
+Year: 1542
+Was asking $123.00
+Now asking $112.30
